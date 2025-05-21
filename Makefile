@@ -1,4 +1,4 @@
-hyprland:
+hyprland_install:
 	cp -f -R ./gen/dotfiles/.* ~/
 	cp -f -R ./hyprland/dotfiles/.* ~/
 	chmod +x ./hyprland/scripts/*
@@ -6,7 +6,7 @@ hyprland:
 	mkdir -p ~/Pix/Bg
 	cp -f ./bg/lain.png ~/Pix/Bg
 
-dwm:
+dwm_install:
 	cp -f -R ./gen/dotfiles/.* ~/
 	doas cp -f -R ./dwm/portage/* /etc/portage
 	chmod +x ./dwm/scripts/*
