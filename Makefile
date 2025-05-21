@@ -8,6 +8,7 @@ hyprland_install:
 
 dwm_install:
 	cp -f -R ./gen/dotfiles/.* ~/
+	cp -f -R ./dwm/dotfiles/.* ~/
 	doas cp -f -R ./dwm/portage/* /etc/portage
 	chmod +x ./dwm/scripts/*
 	doas cp -f ./dwm/scripts/* /usr/local/bin
