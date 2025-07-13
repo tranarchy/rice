@@ -63,7 +63,7 @@ output * bg ~/Pix/lain.png fill
 # Read `man 5 sway-input` for more information about this section.
 
 ### Font
-font pango:monospace 12
+font pango:Hack 12
 
 ### Gaps
 gaps inner 8
