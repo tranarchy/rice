@@ -5,4 +5,4 @@ compinit
 
 alias ls="ls --color"
 
-PROMPT="%n:%F{blue}%~%f/ %B❯%b "
+PROMPT="%~ $ "
