@@ -1,7 +1,7 @@
 # rice
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2a5b3da3-2f92-466b-8660-93d58500b975" />
+  <img src="https://github.com/user-attachments/assets/b8615900-097d-49d1-a2f1-94e579b9c761" />
 </p>
 
 <br>
