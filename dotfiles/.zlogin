@@ -1,1 +1,2 @@
-dbus-run-session sway
+dbus-run-session hyprland
+

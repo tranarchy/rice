@@ -7,5 +7,5 @@
 <br>
 
 ```
-apk add zsh sway foot waybar wofi slurp grim wl-clipboard font-awesome font-awesome-free font-hack
+apk add zsh hyprland swaybg foot waybar wofi slurp grim wl-clipboard font-awesome font-awesome-free font-hack
 ```
