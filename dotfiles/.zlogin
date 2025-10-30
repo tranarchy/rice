@@ -1,2 +1,1 @@
-dbus-run-session hyprland
-
+dbus-run-session niri --session
