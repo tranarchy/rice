@@ -1,11 +1,11 @@
 # rice
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b8615900-097d-49d1-a2f1-94e579b9c761" />
+  <img src="https://github.com/user-attachments/assets/502ebee2-2040-47a4-bd8f-48b555401a11" />
 </p>
 
 <br>
 
 ```
-apk add zsh hyprland swaybg foot waybar wofi slurp grim wl-clipboard font-awesome font-awesome-free font-hack
+apk add zsh niri swaybg foot waybar wofi slurp grim wl-clipboard font-awesome font-awesome-free font-hack
 ```
