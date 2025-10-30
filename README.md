@@ -6,6 +6,8 @@
 
 <br>
 
+Alpine Linux
+
 ```
 apk add zsh niri swaybg foot waybar wofi slurp grim wl-clipboard font-awesome font-awesome-free font-hack
 ```
