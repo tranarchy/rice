@@ -1,1 +1,1 @@
-dbus-run-session niri --session
+dbus-run-session sway

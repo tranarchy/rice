@@ -1,6 +1,6 @@
 {
-    "modules-left": ["niri/workspaces"],
-    "modules-center": ["niri/window"],
+    "modules-left": ["sway/workspaces"],
+    "modules-center": ["sway/window"],
     "modules-right": [ "battery", "wireplumber", "cpu", "temperature", "memory", "clock"],
 
     "niri/workspaces": {
