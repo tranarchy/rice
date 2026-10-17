@@ -1,13 +1,12 @@
 # rice
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/502ebee2-2040-47a4-bd8f-48b555401a11" />
+  <img src="https://github.com/user-attachments/assets/00f4e472-b0ff-4ad3-bd9b-56c843bb7f22" />
 </p>
 
 <br>
 
-Alpine Linux
-
+Packages
 ```
-apk add zsh niri swaybg foot waybar wofi slurp grim wl-clipboard font-awesome font-awesome-free font-hack
+zsh niri swaybg foot waybar wofi slurp grim wl-clipboard font-awesome font-awesome-free font-hack
 ```
